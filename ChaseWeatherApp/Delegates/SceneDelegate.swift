@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  ChaseWeatherApp
-//
-//  Created by Phil Pilosi on 9/9/23.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
